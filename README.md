@@ -172,5 +172,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 - Replace `yourusername` with your GitHub username if hosting online.
 - Add a `LICENSE` file if you choose to include one (e.g., MIT License text).
 - Optionally, add screenshots to a `screenshots/` folder and link them under a "Screenshots" section.
-
-This README provides a clear starting point for users and developers, replacing the generic Flutter template with project-specific details. Let me know if you’d like further adjustments!
